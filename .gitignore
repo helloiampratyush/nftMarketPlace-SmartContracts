@@ -1,0 +1,7 @@
+#environment varibles
+.env
+artifacts
+cache
+coverage
+deployments
+node_modules
