@@ -1,0 +1,11 @@
+{
+  "name": "BUGS",
+  "description": "A misChief Bunny!",
+  "image": "https://ipfs.io/ipfs/QmTJ2BPMUEwon198ZbduMc7pDgD3YbKs3Qqm2WwBJ9kbNX",
+  "attributes": [
+    {
+      "trait_type": "cuteness",
+      "value": 100
+    }
+  ]
+}

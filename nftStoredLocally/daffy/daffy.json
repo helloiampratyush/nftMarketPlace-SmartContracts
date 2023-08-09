@@ -1,0 +1,11 @@
+{
+  "name": "daffy",
+  "description": "A lol duck!",
+  "image": "https://ipfs.io/ipfs/QmbsUtaaQfkCRBnKANWjz6S9uqXpR32ZTmep7AbMLn7ASX",
+  "attributes": [
+    {
+      "trait_type": "cuteness",
+      "value": 80
+    }
+  ]
+}
